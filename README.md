@@ -2,7 +2,7 @@
 
 MCP server for the [musclesworked.com](https://musclesworked.com) exercise-to-muscle mapping API.
 
-Connects Claude Desktop, Claude Code, Cursor, and other MCP clients to 320+ exercises and 65 muscles with detailed activation data.
+Connects Claude Desktop, Claude Code, Cursor, and other MCP clients to 856 exercises and 65 muscles with detailed primary/secondary/stabilizer activation data across 14 muscle groups.
 
 ## Setup
 
